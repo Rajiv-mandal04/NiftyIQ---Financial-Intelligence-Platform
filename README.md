@@ -32,6 +32,5 @@ How actuallay look like :<br>
 ![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20190659.png)
 ![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191018.png)
 ![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191040.png)
-![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191040.png)
 ![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191131.png)
 ![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191200.png)
