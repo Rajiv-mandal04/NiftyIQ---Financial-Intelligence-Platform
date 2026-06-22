@@ -24,3 +24,14 @@ Python • PostgreSQL • Django • DRF • React.js • Tailwind CSS • Power
 ✔ REST API Access<br>
 
 Developed during my Data Analyst Internship at Bluestock Fintech.
+<br>
+<br>
+How actuallay look like :<br>
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20190601.png)
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20190642.png)
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20190659.png)
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191018.png)
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191040.png)
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191040.png)
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191131.png)
+![image alt](https://github.com/Rajiv-mandal04/NiftyIQ---Financial-Intelligence-Platform/blob/main/Screenshot%202026-06-22%20191200.png)
