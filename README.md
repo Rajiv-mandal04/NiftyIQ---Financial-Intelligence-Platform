@@ -9,6 +9,8 @@
 💻 React.js Interactive Dashboards<br>
 📈 Power BI Business Intelligence Dashboards<br>
 
+Demo : https://nifty-iq-financial-intelligence-pla.vercel.app/
+
 ## Tech Stack
 
 Python • PostgreSQL • Django • DRF • React.js • Tailwind CSS • Power BI • Pandas • SQL
