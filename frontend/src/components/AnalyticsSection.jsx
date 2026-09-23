@@ -7,7 +7,7 @@ function AnalyticsSection() {
 
   useEffect(() => {
 
-    axios.get("http://127.0.0.1:8000/api/top-growth/")
+    axios.get(`${import.meta.env.VITE_API_URL}/api/top-growth/`)
       .then((response) => {
 
         const cleanedData = response.data
