@@ -12,7 +12,7 @@ function CompanyTable() {
 
   useEffect(() => {
 
-    axios.get("http://127.0.0.1:8000/api/companies/")
+    axios.get(`${import.meta.env.VITE_API_URL}/api/companies/`)
       .then((response) => {
 
         setCompanies(response.data)
