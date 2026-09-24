@@ -9,7 +9,7 @@
 💻 React.js Interactive Dashboards<br>
 📈 Power BI Business Intelligence Dashboards<br>
 
-Demo : https://nifty-iq-financial-intelligence-pla.vercel.app/
+Demo : https://nifty-iq-financial-intelligence-pla-dusky.vercel.app/
 
 ## Tech Stack
 
